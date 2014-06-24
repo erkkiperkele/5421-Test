@@ -15,3 +15,6 @@ WordList::~WordList()
 {
 }
 
+int WordList::Getsize()
+{
+}
